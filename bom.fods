@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2020-04-01T11:39:14.287000000</meta:creation-date><meta:generator>LibreOffice/6.4.1.2$Windows_X86_64 LibreOffice_project/4d224e95b98b138af42a64d84056446d09082932</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="0" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2020-04-01T11:39:14.287000000</meta:creation-date><meta:generator>LibreOffice/6.4.1.2$Windows_X86_64 LibreOffice_project/4d224e95b98b138af42a64d84056446d09082932</meta:generator><dc:date>2020-04-01T11:46:19.119000000</dc:date><meta:editing-duration>PT7M6S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="16" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">2257</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">451</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">25994</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">903</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -16,14 +16,14 @@
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
-       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -112,6 +112,17 @@
   <number:number-style style:name="N0">
    <number:number number:min-integer-digits="1"/>
   </number:number-style>
+  <number:currency-style style:name="N109P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="CA">$</number:currency-symbol>
+   <number:number number:decimal-places="3" loext:min-decimal-places="3" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N109">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="CA">$</number:currency-symbol>
+   <number:number number:decimal-places="3" loext:min-decimal-places="3" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N109P0"/>
+  </number:currency-style>
   <style:style style:name="Default" style:family="table-cell"/>
   <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold"/>
@@ -170,7 +181,22 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.514cm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.878cm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.369cm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.209cm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="9.885cm"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -181,6 +207,32 @@
   <number:number-style style:name="N2">
    <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1"/>
   </number:number-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0cm"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0cm"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N109">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0cm"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N109">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="end" fo:margin-left="0cm"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0cm"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
@@ -235,9 +287,73 @@
   <office:spreadsheet>
    <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
    <table:table table:name="Sheet1" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="ce5"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce3"/>
+    <table:table-column table:style-name="co2" table:number-columns-repeated="1016" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
-     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Manufacturer</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Mfg#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>DK#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Qty</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>$/Qty</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Subtot</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Desc</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>DK link</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Talema Group</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ASM-010</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1295-1125-ND</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="currency" office:currency="CAD" office:value="6.152" calcext:value-type="currency">
+      <text:p>$6.152</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.D2]*[.E2]" office:value-type="currency" office:currency="CAD" office:value="6.152" calcext:value-type="currency">
+      <text:p>$6.152</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>CURR SENSE XFMR 10A T/H </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="https://www.digikey.ca/product-detail/en/talema-group-llc/ASM-010/1295-1125-ND/4172347" xlink:type="simple">https://www.digikey.ca/product-detail/en/talema-group-llc/ASM-010/1295-1125-ND/4172347</text:a></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1016"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048573">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
    <table:named-expressions/>
