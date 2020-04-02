@@ -1,3 +1,6 @@
+Introduction
+============
+
 What is this?
 -------------
 
@@ -20,7 +23,10 @@ useful for a number of reasons, not limited to:
 - Knowing if an appliance is really off when it says it's off
 
 Design notes
-------------
+============
+
+Current transformer
+-------------------
 
 First, we choose a current-sensing strategy. Our strategy will be
 "non-intrusive":
@@ -108,14 +114,13 @@ then it is a 10-bit ADC:
     Resolution = 2^10 = 1024
     Vout min = 33.3mV / 1024 ~ 32.6μV
     Vin min = 32.6μV * 300℧ ~ 9.77mA
-    Gain = 5V / 33.3mV = 150
 
 In other words, the minimum resolvable current for the Arduino would be one
-where the ADC reads "1" out of a possible 1023. With a gain of 150 that
-amplifies 33.3mV to 5V, this would be read for a transformer output voltage of
+where the ADC reads "1" out of a possible 1023. With a rectifier/amplifier that
+amplifies 33.3mVac to 5V peak, this would be read for a transformer output voltage of
 32.6μV, which would be produced by a current of 9.77mA AC through the primary.
 
-This in turn means that, if we only have a gain of 150, our minimum resolvable
+This in turn means that, if we only have a single gain, our minimum resolvable
 power is
 
     P = 120V * 9.77mA = 1.17W
